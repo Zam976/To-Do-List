@@ -100,7 +100,7 @@ body{
     font-family:sans serif;
 
 }
-.remouve-to-do {
+.remove-to-do {
     display:block;
     float: right;
     width: 20px;
@@ -114,7 +114,7 @@ body{
     transition: background 1s;
     cursor: pointer;
 }
-.remouve-to-do:hover {
+.remove-to-do:hover {
     background: rgb(139,97,93);
     color: #fff;
 }
